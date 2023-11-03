@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Agaslagan</title>
-    <link rel="icon" type="image/x-icon" href="imgjdslad/grid.svg" />
+    <link rel="icon" type="image/x-icon" href="img/grid.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -12,7 +12,7 @@
       rel="stylesheet"
     />
     <script src="https://unpkg.com/feather-icons"></script>
-    <link rel="stylesheet" href="cssfgsassf/style.css" />
+    <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
     <nav class="navbar">
@@ -44,7 +44,7 @@
       <h2>About</h2>
       <div class="row">
         <div class="about-img">
-          <img src="imgjdslad/header-bg7.jpg" alt="Tentang Kami" />
+          <img src="img/header-bg7.jpg" alt="Tentang Kami" />
         </div>
         <div class="content">
           <h3>Tentang Aslan</h3>
@@ -145,6 +145,6 @@
     </script>
 
     <!--Javascript-->
-    <script src="jsvjkllk/script.js"></script>
+    <script src="js/script.js"></script>
   </body>
 </html>
